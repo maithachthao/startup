@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+.logo {
+	
+	position: absolute !important;
+	left:10px !important;
+	top:30px
+}
+body {
+	overflow-x: hidden !important;
+	
+}
+h1,h2{
+	font-family:  'DM Serif Display', serif !important;
+font-family: 'DM Serif Text', serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Open Sans', sans-serif;
+	color: #333333
+}
+h3,h4,h5,h6,p,span, .text {
+	font-family: 'DM Serif Display', serif;
+font-family: 'DM Serif Text', serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif !important;
+	font-weight: 300 !important
+	
+}
+.linkjuste {
+	text-decoration: none;
+	color: #EF9A23
+}
+.icon-ser {
+	color: #EF9A23!important;
+	
+}
+.dress {
+	height: 759px !important;
+	width: 100%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
